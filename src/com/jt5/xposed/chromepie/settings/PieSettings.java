@@ -32,6 +32,7 @@ public class PieSettings extends PreferenceActivity {
         "com.android.chrome",
         "com.chrome.beta",
         "com.chrome.dev",
+        "com.chrome.canary",
         "com.metalasfook.nochromo",
         "org.chromium.chrome",
         "tugapower.codeaurora.browser",
